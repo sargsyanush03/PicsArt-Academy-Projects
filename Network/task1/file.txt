@@ -1,0 +1,4 @@
+This is a sample text file.  
+It contains multiple lines of text.  
+File handling in C allows reading and writing data efficiently.  
+End of file.
